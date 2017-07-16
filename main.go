@@ -100,7 +100,7 @@ func verificationSites(site string) {
 func readSitesFiles() []string {
 
 	var sites []string
-	file, err := os.Open("sites.txt")
+	file, err := os.Open("input/sites.txt")
 	check(err)
 
 	reads := bufio.NewReader(file)
@@ -126,7 +126,7 @@ func readSitesFiles() []string {
 
 func saveLog(site string, status bool) {
 
-	file, err := os.OpenFile("log.txt", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0777)
+	file, err := os.OpenFile("output/log.txt", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0777)
 	check(err)
 	file.WriteString(time.Now().Format("02/01/2006 15:04:05") + " - " + site + " -Online: " +
 		strconv.FormatBool(status) + "\n")
@@ -135,7 +135,7 @@ func saveLog(site string, status bool) {
 
 func showLogs() {
 
-	file, err := ioutil.ReadFile("log.txt")
+	file, err := ioutil.ReadFile("output/log.txt")
 	check(err)
 
 	fmt.Println(string(file))
