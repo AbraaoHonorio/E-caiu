@@ -2,7 +2,7 @@
 
 [PT-br]
 
-O sistema e caiu? verificará a disponibilidade dos sites da UFPB. No arquivo de log.txt é disponibilizado algumas informações úteis, por exemplo, a data da verficação juntamente com a hora e com isso poderá medir por quanto a tempo o determinado site ficou fora do ar.
+O sistema *E Caiu?* verificará a disponibilidade dos sites da UFPB. No arquivo de log.txt é disponibilizado algumas informações úteis, por exemplo, a data da verficação juntamente com a hora e com isso poderá medir por quanto a tempo o determinado site ficou fora do ar.
 
 ## funcionalidades
 
@@ -29,4 +29,4 @@ O sistema e caiu? verificará a disponibilidade dos sites da UFPB. No arquivo de
 No tópico de [funcionalidades](https://github.com/AbraaoHonorio/E-caiu/#funcionalidades) criei as features que irei implementar para o projeto, caso tenha alguma feature interessante é só da um pull request no próprio README, caso queira implementar a feature, por favor colocar a tag em andamento - seu github ( em andamento - @AbraaoHonorio)
 
 ###### Exemplo de log
-       16/07/2017 15:00:18 - https://sigaa.ufpb.br/sigaa/verTelaLogin.do -Online: true
+       "16/07/2017 15:00:18 - https://sigaa.ufpb.br/sigaa/verTelaLogin.do -Online: true"
