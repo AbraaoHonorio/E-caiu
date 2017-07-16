@@ -26,7 +26,7 @@ O sistema e caiu? verificará a disponibilidade dos sites da UFPB. No arquivo de
   
 ## Contribuições são bem-vindas!
 
-No topico de [funcionalidades](https://github.com/AbraaoHonorio/E-caiu/#funcionalidades) criei as features que irei implementar para o projeto, caso tenha alguma feature interessante é só da um pull request no próprio README, caso queira implementar a feature, por favor colocar a tag em andamento - seu github ( em andamento - @AbraaoHonorio)
+No tópico de [funcionalidades](https://github.com/AbraaoHonorio/E-caiu/#funcionalidades) criei as features que irei implementar para o projeto, caso tenha alguma feature interessante é só da um pull request no próprio README, caso queira implementar a feature, por favor colocar a tag em andamento - seu github ( em andamento - @AbraaoHonorio)
 
 ###### Exemplo de log
        16/07/2017 15:00:18 - https://sigaa.ufpb.br/sigaa/verTelaLogin.do -Online: true
