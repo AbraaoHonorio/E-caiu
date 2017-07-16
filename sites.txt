@@ -1,5 +1,0 @@
-https://sigaa.ufpb.br/sigaa/verTelaLogin.do
-https://sigadmin.ufpb.br/admin/login.jsf
-http://www.ufpb.br/
-http://ci.ufpb.br/
-http://www.ead.ufpb.br/login/
