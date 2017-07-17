@@ -4,7 +4,7 @@
 
 O sistema *E Caiu?* verificará a disponibilidade dos sites da UFPB. No arquivo de log.txt é disponibilizado algumas informações úteis, por exemplo, a data da verficação juntamente com a hora e com isso poderá medir por quanto a tempo o determinado site ficou fora do ar.
 
-## funcionalidades
+## Funcionalidades
 
 - [x] Verifica se os sites que estão salvo no arquivo sites.txt estão no ar
 - [x] salva em arquivo os logs da aplicação
