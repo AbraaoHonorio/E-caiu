@@ -22,7 +22,7 @@ No tópico de [funcionalidades](https://github.com/AbraaoHonorio/E-caiu/#funcion
   - [ ] Indentificar qual foi o site ficou fora ar.
   - [ ] Quanto tempo o sistema ficou fora do ar
   - [ ] Em que dia da semana  
-  - [ ] porcetagem que de quanto tempo o sistema ficou disponvel, relação diaria,semanal,mensal
+  - [ ] porcentagem que de quanto tempo o sistema ficou disponvel, relação diaria,semanal,mensal
 
 ### Building no projeto
   ```sh
